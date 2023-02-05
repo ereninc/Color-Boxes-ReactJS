@@ -1,0 +1,15 @@
+.color-box {
+  box-sizing: border-box;
+  width: 150px;
+  height: 150px;
+  border-radius: 8px;
+  display: inline-block;
+  margin: 8px;
+  cursor: pointer;
+  transition: all 0.15s ease-in-out;
+}
+
+.color-box:hover {
+  border: 2px solid rgb(255, 255, 255);
+  transform: scale(1.05);
+}

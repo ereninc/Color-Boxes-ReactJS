@@ -1,0 +1,7 @@
+.color-area {
+  padding: 24px;
+  height: 500px;
+  display: inline-block;
+  cursor: pointer;
+  transition: all 0.3s ease-in-out;
+}
